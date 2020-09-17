@@ -1,1 +1,3 @@
 # ghpage-test
+
+[A](/a)
